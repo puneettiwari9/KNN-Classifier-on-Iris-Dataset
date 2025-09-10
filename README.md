@@ -24,7 +24,8 @@ Predict the corresponding Iris species.
 
  ### **Visualization**
 
-The script generates a 2D scatter plot (Sepal Length vs. Sepal Width):"output.png"
+The script generates a 2D scatter plot (Sepal Length vs. Sepal Width):![THE DATA](images/output.png)
+
 
 **Example User Input:**
 Enter flower measurements:
